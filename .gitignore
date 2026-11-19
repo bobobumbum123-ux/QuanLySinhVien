@@ -1,0 +1,17 @@
+
+# Java compiled files
+*.class
+bin/
+target/
+
+# IDE temporary files
+.idea/
+*.iml
+
+# Sensitive information
+.env
+secrets.properties
+
+# Operating system files
+.DS_Store
+Thumbs.db
